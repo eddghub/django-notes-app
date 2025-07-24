@@ -1,3 +1,0 @@
-git add .dockerignore
-git commit -m "Add .dockerignore to avoid permission issues"
-git push origin main
